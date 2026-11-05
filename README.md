@@ -2,7 +2,7 @@
 
 **AI / ML Engineer · LLM applications · Computer vision · Data pipelines**
 
-Final-year Computer Engineering student at K.J. Somaiya School of Engineering, Mumbai (graduating 2027). I build AI systems end to end: from raw data and pipelines, to models, to FastAPI backends running in production. I care about honest evaluation: leak-free splits, held-out tests and numbers I can reproduce.
+Final-year Computer Engineering student. I build AI systems end to end: from raw data and pipelines, to models, to FastAPI backends running in production. I care about honest evaluation: leak-free splits, held-out tests and numbers I can reproduce.
 
 **Open to:** ML / AI Engineer, Data Scientist and Data Engineer roles, both internships and full-time (2027 graduate). Based in Mumbai, open to remote.
 
